@@ -1,5 +1,7 @@
 # Drawing Board
 
+![Drawing Board Preview](https://s6.imgcdn.dev/YY8Hjd.png)
+
 ## Overview
 The **Drawing Board** is a simple yet powerful web-based drawing application that allows users to create digital drawings using various tools, colors, and brush sizes. It is built using HTML5, CSS, and JavaScript, making it lightweight and accessible directly from the browser.
 
@@ -38,9 +40,6 @@ This project runs directly in the browser. To use it:
 4. Click and drag on the **canvas** to draw.
 5. Use the **Save** button to download your drawing.
 6. Use the **Clear** button to reset the canvas.
-
-## Screenshots
-![Drawing Board Preview]([https://s6.imgcdn.dev/YY8Hjd.png])
 
 ## Contributing
 Contributions are welcome! If you have suggestions or want to add new features, please follow these steps:
