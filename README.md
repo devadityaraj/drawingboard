@@ -40,7 +40,7 @@ This project runs directly in the browser. To use it:
 6. Use the **Clear** button to reset the canvas.
 
 ## Screenshots
-![Drawing Board Preview]([https://devadityaraj.github.io/drawingboard/])
+![Drawing Board Preview]([https://s6.imgcdn.dev/YY8Hjd.png])
 
 ## Contributing
 Contributions are welcome! If you have suggestions or want to add new features, please follow these steps:
